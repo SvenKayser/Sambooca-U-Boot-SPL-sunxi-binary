@@ -2,7 +2,7 @@
 
 Binary distributions of U-Boot boot loader and SPL for Sambooca 
 
-Currently based off [U-Boot 2016.09-rc2](http://git.denx.de/?p=u-boot.git;a=summary) and a Armbians's patches
+Currently based off [U-Boot 2016.09-rc2](http://git.denx.de/?p=u-boot.git;a=summary)
 
 Based off the work of
 - DENX Software Engineering GmbH (www.denx.de)
